@@ -40,7 +40,8 @@ public class Pattern
 
 ```
 ## Output:
-![alt text](output.png)
+![image](https://github.com/Lingeswaran04/Exp04-Jagged-Array/assets/119103865/62f35ef3-c741-480a-9c96-84668ad33508)
+
 
 ## Result
 Thus,To write a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array executed successfully.
